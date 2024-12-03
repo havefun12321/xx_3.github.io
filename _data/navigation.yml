@@ -8,19 +8,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education"
+  - title: "Talks"
     url: /talks/    
 
-  - title: "Work Experience"
+  - title: "Teaching"
     url: /teaching/    
     
-  - title: "Granted Projects"
+  - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Patent"
+  - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Award&services"
+  - title: "CV"
     url: /cv/
     
   - title: "Guide"
