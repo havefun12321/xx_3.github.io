@@ -8,20 +8,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Education"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Work Experience"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Granted Projects"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Patent"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Award&services"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
